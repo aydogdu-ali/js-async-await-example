@@ -6,5 +6,4 @@ Bunun için async-await yöntemiyle API'den haber içerikleri çekilerek göster
 
 Uygulamanın sonuçlarını görmek için aşağıdaki linke tıklayınız.
 
-## https://aydogdu-ali.github.io/js-async-await-example/
-
+https://www.awesomescreenshot.com/video/11307449?key=e71dfd667f594f4bbdc2188290c9fac3
